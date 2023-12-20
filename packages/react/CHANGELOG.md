@@ -1,5 +1,23 @@
 # wagmi
 
+## 1.4.12
+
+### Patch Changes
+
+- [`53ca1f7e`](https://github.com/wevm/wagmi/commit/53ca1f7eb411d912e11fcce7e03bd61ed067959c) Thanks [@tmm](https://github.com/tmm)! - Removed LedgerConnector due to security vulnerability
+
+- Updated dependencies [[`53ca1f7e`](https://github.com/wevm/wagmi/commit/53ca1f7eb411d912e11fcce7e03bd61ed067959c)]:
+  - @wagmi/core@1.4.12
+
+## 1.4.11
+
+### Patch Changes
+
+- [#3299](https://github.com/wevm/wagmi/pull/3299) [`b02020b3`](https://github.com/wevm/wagmi/commit/b02020b3724e0228198f35817611bb063295906e) Thanks [@dasanra](https://github.com/dasanra)! - Fixed issue with [Safe SDK](https://github.com/wevm/viem/issues/579) by bumping `@safe-global/safe-apps-provider@0.18.1`
+
+- Updated dependencies [[`b02020b3`](https://github.com/wevm/wagmi/commit/b02020b3724e0228198f35817611bb063295906e)]:
+  - @wagmi/core@1.4.11
+
 ## 1.4.10
 
 ### Patch Changes
